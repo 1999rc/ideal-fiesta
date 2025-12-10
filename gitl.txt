@@ -1,0 +1,1 @@
+(1)step one create new directory with cd/the project name
